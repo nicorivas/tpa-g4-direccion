@@ -4,8 +4,8 @@ La ficha de cierre y traspaso (`traspaso.md`) tiene cinco partes: qué cambió, 
 
 Definiciones para la regla 2: **aceptó** quiere decir que hay una línea en `traspaso.md` con el ID del pendiente y el ID de quien lo acepta. **Recibió la ficha** quiere decir que hay una línea en `traspaso.md` con el ID del proyecto y el ID del receptor. Hoy ninguna de esas líneas existe: si nadie las escribe, la regla 2 estricta deja todo en «mantener».
 
-1. Todo proyecto cuya fecha de fin plan ya pasó se cierra este trimestre, antes del 31 de diciembre, tenga o no cosas pendientes.
-2. Un proyecto se cierra solo si su ficha está completa: todos los hitos hechos, cada pendiente con un responsable nuevo que lo aceptó, y un receptor que recibió la ficha.
+1. Riesgo primero. Este trimestre, antes del 31 de diciembre, se cierran solo los proyectos de riesgo bajo: sin pendientes de prioridad alta abiertos o bloqueados, con un gasto de hasta el 110% del presupuesto, con el acta de cierre y el registro de decisiones en Drive, con todos los hitos hechos y con un receptor válido según la regla 4. Los demás quedan en «pendiente» con un plan de cierre fechado, a más tardar el 31 de marzo de 2027, que aprueba el jefe de planificación.
+2. Al cerrar un proyecto de riesgo bajo, cada pendiente abierto pasa al receptor con una fecha de vencimiento. La ficha queda completa cuando `traspaso.md` tiene la línea del receptor que recibió la ficha y una línea por cada pendiente que aceptó. Quien cierra el proyecto escribe esas líneas el mismo día del cierre.
 3. Un proyecto con un pendiente de prioridad alta que no esté cerrado no se cierra, sin excepciones.
 4. El receptor de un proyecto cerrado debe ser una persona activa del área de destino. No puede ser el responsable saliente, ni alguien de licencia, en período de prueba o con salida programada.
 5. No se cierra un proyecto si faltan el acta de cierre o el registro de decisiones en su carpeta de Drive.

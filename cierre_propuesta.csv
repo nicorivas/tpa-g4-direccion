@@ -1,0 +1,15 @@
+proyecto_id,decision,receptor_id,regla_aplicada
+P-01,cerrar,U03,1
+P-02,pendiente,,3
+P-03,pendiente,,5
+P-04,pendiente,,4
+P-05,pendiente,,7
+P-06,pendiente,,6
+P-07,cerrar,U02,1
+P-08,pendiente,,6
+P-09,pendiente,,3
+P-10,pendiente,,4
+P-11,pendiente,,7
+P-12,pendiente,,9
+P-13,mantener,,3
+P-14,pendiente,,8
